@@ -6,16 +6,16 @@
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 █▓▒░ > DECODED:"Bem-Vindo! Eu Sou Davi Heinrichs" ░▒▓█ 
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█▓▒░ > ABOUT:                                                             ░▒▓██▓▒░ > DETECTED TECNOLOGIES:                      ░▒▓█
-█▓▒░                                                                      ░▒▓██▓▒░                                              ░▒▓█
-█▓▒░    ■ Cursando Segurança da informação na [Fatec São Caetano do Sul](https://fatecsaocaetano.cps.sp.gov.br/).   ░▒▓██▓▒░   ■ PYTHON              ██████▓░░ 71%        ░▒▓█
-█▓▒░    ■ Focado em se aprimorar na carreira de Desenvolvedor Backend!    ░▒▓██▓▒░   ■ JAVA                ███▓░░░░░ 30%        ░▒▓█
-█▓▒░    ■ Principal projeto atual: [Gerenciador de Senhas](https://github.com/DaviHeinrichs/Projeto-GerenciadordeSenhas)                  ░▒▓██▓▒░   ■ SQLite              █████▓░░░ 56%        ░▒▓█
-█▓▒░    ■ Desejo de tornar o processo de desenvolvimento mais seguro      ░▒▓██▓▒░   ■ Git/GitHub          ███▓░░░░░ 37%        ░▒▓█
-█▓▒░    desde o início, aplicando conceitos de segurança.                 ░▒▓██▓▒░   ■ FastAPI             █▓░░░░░░░ 13%        ░▒▓█
-█▓▒░                                                                      ░▒▓██▓▒░                                              ░▒▓█
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█▓▒░ > ABOUT:                                                             ░▒▓██▓▒░ > DETECTED TECNOLOGIES:                  ░▒▓█
+█▓▒░                                                                      ░▒▓██▓▒░                                          ░▒▓█
+█▓▒░    ■ Cursando Segurança da informação na [Fatec São Caetano do Sul](https://fatecsaocaetano.cps.sp.gov.br/).   ░▒▓██▓▒░   ■ PYTHON              ██████▓░░ 71%    ░▒▓█
+█▓▒░    ■ Focado em se aprimorar na carreira de Desenvolvedor Backend!    ░▒▓██▓▒░   ■ JAVA                ███▓░░░░░ 30%    ░▒▓█
+█▓▒░    ■ Principal projeto atual: [Gerenciador de Senhas](https://github.com/DaviHeinrichs/Projeto-GerenciadordeSenhas)                  ░▒▓██▓▒░   ■ SQLite              █████▓░░░ 56%    ░▒▓█
+█▓▒░    ■ Desejo de tornar o processo de desenvolvimento mais seguro      ░▒▓██▓▒░   ■ Git/GitHub          ███▓░░░░░ 37%    ░▒▓█
+█▓▒░    desde o início, aplicando conceitos de segurança.                 ░▒▓██▓▒░   ■ FastAPI             █▓░░░░░░░ 13%    ░▒▓█
+█▓▒░                                                                      ░▒▓██▓▒░                                          ░▒▓█
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3E8D42&width=435&lines=01000011+01001111+01001110+01010100+01000001+01000011+01010100+01010011+00111010)](https://git.io/typing-svg) 
 |                                                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀   ⢀⡴⠟⠃⠀⠀⠙⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 | > Decoding... █████████████████▓ 100%        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀            ⣠⠋⠀⠀⠀⠀⠀⠀⠘⣆⠀⠀⠀⠀⠀⠀⠀⠀
