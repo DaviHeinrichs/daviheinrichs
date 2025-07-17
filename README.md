@@ -43,13 +43,3 @@
 </div>
 
 
-## **💾 Estatísticas**
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaviHeinrichs&show_icons=true&theme=merko" height= 130/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviHeinrichs&hide_progress=true&width=500&theme=merko" height= 120/>
-</a>
-
----
